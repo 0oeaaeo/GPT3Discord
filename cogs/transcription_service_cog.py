@@ -3,7 +3,6 @@ import traceback
 import os
 from functools import partial
 from pathlib import Path
-from yt_dlp import YoutubeDL
 
 
 import discord
